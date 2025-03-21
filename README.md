@@ -11,5 +11,4 @@ Projects Demo:
 2. PaymentUI
 
 
-![rec623](https://github.com/user-attachments/assets/20283279-d2d1-4254-85c3-8c188aaad71d)
-
+![rec623](https://github.com/user-attachments/assets/38066fe1-08ee-4cc5-b4c9-a84baca8b7c6)
