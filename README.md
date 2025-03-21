@@ -2,6 +2,9 @@ We used Flutter to develop it. It will run on iOS and Android.
 Features
 1. Expendable table view
 2. Auto expend once the user search content.
+3. Used stateless widget
+4. Used Getx for the communication.
+5. SSL pinning for the secure communication
 
 Projects Demo:
 1. CentralPark
